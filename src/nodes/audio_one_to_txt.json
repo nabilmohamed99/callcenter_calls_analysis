@@ -1,0 +1,556 @@
+`json
+[
+  {
+    "start": 0.0,
+    "end": 4.1,
+    "speaker": "client",
+    "text": "my mother-in-law's niece's daughter."
+  },
+  {
+    "start": 4.1,
+    "end": 4.7,
+    "speaker": "agent",
+    "text": "Mm-hm."
+  },
+  {
+    "start": 5.8,
+    "end": 10.6,
+    "speaker": "client",
+    "text": "But um she's the one that's paying nothing."
+  },
+  {
+    "start": 10.6,
+    "end": 12.6,
+    "speaker": "client",
+    "text": "And she got in for free."
+  },
+  {
+    "start": 12.6,
+    "end": 13.0,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "start": 13.0,
+    "end": 22.2,
+    "speaker": "client",
+    "text": "She she wasn't even accepted. They pushed and pushed and pushed. Her grandfather is  from here, so he called up."
+  },
+  {
+    "start": 22.2,
+    "end": 24.8,
+    "speaker": "client",
+    "text": "And he got her in."
+  },
+  {
+    "start": 24.8,
+    "end": 26.0,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "start": 27.6,
+    "end": 29.6,
+    "speaker": "agent",
+    "text": "What's doing there?"
+  },
+  {
+    "start": 29.6,
+    "end": 33.0,
+    "speaker": "client",
+    "text": "Nothing. So I had specimens with today."
+  },
+  {
+    "start": 33.0,
+    "end": 34.2,
+    "speaker": "agent",
+    "text": "Whose is it?"
+  },
+  {
+    "start": 34.2,
+    "end": 38.7,
+    "speaker": "client",
+    "text": "It was my next-door neighbor Susan. She moved away."
+  },
+  {
+    "start": 38.7,
+    "end": 39.6,
+    "speaker": "agent",
+    "text": "Oh."
+  },
+  {
+    "start": 39.6,
+    "end": 41.6,
+    "speaker": "client",
+    "text": "But um"
+  },
+  {
+    "start": 41.6,
+    "end": 44.2,
+    "speaker": "client",
+    "text": "She's taking the girl?"
+  },
+  {
+    "start": 44.2,
+    "end": 50.0,
+    "speaker": "client",
+    "text": "Yeah. She invited Elkin Sari and Cho Shi, but I'm just taking Elkin Sari."
+  },
+  {
+    "start": 50.0,
+    "end": 50.9,
+    "speaker": "agent",
+    "text": "Mm-hm."
+  },
+  {
+    "start": 50.9,
+    "end": 53.6,
+    "speaker": "agent",
+    "text": "What did you get her as a gift?"
+  },
+  {
+    "start": 53.6,
+    "end": 61.2,
+    "speaker": "client",
+    "text": "I got her a set of towels. Three towels with her name on it."
+  },
+  {
+    "start": 61.2,
+    "end": 62.8,
+    "speaker": "agent",
+    "text": "Oh, that's nice."
+  },
+  {
+    "start": 62.8,
+    "end": 74.6,
+    "speaker": "client",
+    "text": "Yeah, cuz they just moved into a new house and her she's her only daughter. She has her own bedroom, she has her own bathroom."
+  },
+  {
+    "start": 74.6,
+    "end": 75.4,
+    "speaker": "agent",
+    "text": "Mm-hm."
+  },
+  {
+    "start": 75.4,
+    "end": 86.0,
+    "speaker": "client",
+    "text": "So that's very nice. Very pretty. It's pink with, you know, like maroon lettering and, you know, green flower underneath."
+  },
+  {
+    "start": 86.0,
+    "end": 87.0,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "start": 87.0,
+    "end": 88.1,
+    "speaker": "agent",
+    "text": "It's very pretty."
+  },
+  {
+    "start": 90.0,
+    "end": 95.2,
+    "speaker": "client",
+    "text": "And that's my big thing today."
+  },
+  {
+    "start": 95.2,
+    "end": 96.2,
+    "speaker": "agent",
+    "text": "Mm-hm."
+  },
+  {
+    "start": 96.2,
+    "end": 98.6,
+    "speaker": "agent",
+    "text": "How's school going?"
+  },
+  {
+    "start": 98.6,
+    "end": 105.0,
+    "speaker": "client",
+    "text": "Uh, the baby was sick again on Friday."
+  },
+  {
+    "start": 105.0,
+    "end": 106.0,
+    "speaker": "agent",
+    "text": "With what?"
+  },
+  {
+    "start": 106.0,
+    "end": 111.8,
+    "speaker": "client",
+    "text": "She can't she doesn't digest it well."
+  },
+  {
+    "start": 111.8,
+    "end": 114.0,
+    "speaker": "agent",
+    "text": "So what's going to be?"
+  },
+  {
+    "start": 114.0,
+    "end": 121.8,
+    "speaker": "client",
+    "text": "So I'm going to take her to a specialist in Manhattan, Gribbits."
+  },
+  {
+    "start": 121.8,
+    "end": 124.6,
+    "speaker": "agent",
+    "text": "I've heard of Gribbits."
+  },
+  {
+    "start": 124.6,
+    "end": 127.2,
+    "speaker": "client",
+    "text": "Yeah, he's a big doctor."
+  },
+  {
+    "start": 127.2,
+    "end": 130.0,
+    "speaker": "agent",
+    "text": "Did you get an appointment?"
+  },
+  {
+    "start": 130.0,
+    "end": 134.0,
+    "speaker": "client",
+    "text": "No, my mother-in-law's going to call up today."
+  },
+  {
+    "start": 139.0,
+    "end": 148.0,
+    "speaker": "client",
+    "text": "And um do they think that that's what caused it, just that the whole digestive system is out of whack?" 
+  },
+  {
+    "start": 148.0,
+    "end": 164.0,
+    "speaker": "client",
+    "text": "Maybe. But she I mean she wasn't sick or anything, but she um you know, she was constipated again on Friday. It took me about 3 hours to get it out."
+  },
+  {
+    "start": 164.0,
+    "end": 174.0,
+    "speaker": "client",
+    "text": "And yesterday again. It's very hard. She needs something that, you know, will soften it."
+  },
+  {
+    "start": 174.0,
+    "end": 181.0,
+    "speaker": "agent",
+    "text": "Wow. Poor kid. Did you have this with somebody else?"
+  },
+  {
+    "start": 181.0,
+    "end": 191.0,
+    "speaker": "client",
+    "text": "Yeah, but they it wasn't as bad. You know, I would just take a thermometer and they would go."
+  },
+  {
+    "start": 191.0,
+    "end": 196.0,
+    "speaker": "agent",
+    "text": "Yeah. Do you remember somebody was constipated?"
+  },
+  {
+    "start": 196.0,
+    "end": 197.8,
+    "speaker": "client",
+    "text": "Yeah."
+  },
+  {
+    "start": 197.8,
+    "end": 202.0,
+    "speaker": "client",
+    "text": "I'm always constipated."
+  },
+  {
+    "start": 203.0,
+    "end": 207.0,
+    "speaker": "client",
+    "text": "And I spoke to Mom last night."
+  },
+  {
+    "start": 207.0,
+    "end": 209.0,
+    "speaker": "agent",
+    "text": "Yeah, what did she say?"
+  },
+  {
+    "start": 209.0,
+    "end": 222.0,
+    "speaker": "client",
+    "text": "Uh, no, I called her because I sent the package and I didn't know if she got it yet, but she didn't. You know, I told you all those school things."
+  },
+  {
+    "start": 222.0,
+    "end": 225.0,
+    "speaker": "agent",
+    "text": "Oh, yeah."
+  },
+  {
+    "start": 225.0,
+    "end": 229.0,
+    "speaker": "client",
+    "text": "So she didn't get it yet."
+  },
+  {
+    "start": 230.0,
+    "end": 233.0,
+    "speaker": "client",
+    "text": "And um"
+  },
+  {
+    "start": 233.0,
+    "end": 236.0,
+    "speaker": "agent",
+    "text": "What did she say?"
+  },
+  {
+    "start": 236.0,
+    "end": 250.0,
+    "speaker": "client",
+    "text": "She tried to tell me something. Oh, but can I end Heidi? What? They had They called her. They want her to come for Sukkot."
+  },
+  {
+    "start": 250.0,
+    "end": 265.0,
+    "speaker": "client",
+    "text": "Because Heidi said that she's going to have to go on Yom Kippur."
+  },
+  {
+    "start": 265.0,
+    "end": 267.0,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "start": 267.0,
+    "end": 282.0,
+    "speaker": "client",
+    "text": "And who will have to take them? Who's going to, you know, do the kids or whatever."
+  },
+  {
+    "start": 282.0,
+    "end": 293.0,
+    "speaker": "client",
+    "text": "And Dad doesn't want to go because he he feels that it's going to be too hard on Mom."
+  },
+  {
+    "start": 293.0,
+    "end": 306.0,
+    "speaker": "client",
+    "text": "But Mom said she said to me, you know, I really feel I should go. You know, they're asking me. They need me."
+  },
+  {
+    "start": 306.0,
+    "end": 308.0,
+    "speaker": "agent",
+    "text": "Right."
+  },
+  {
+    "start": 308.0,
+    "end": 320.0,
+    "speaker": "client",
+    "text": "And her mother doesn't know till a week before if she can get off."
+  },
+  {
+    "start": 320.0,
+    "end": 321.6,
+    "speaker": "agent",
+    "text": "Mm-hm."
+  },
+  {
+    "start": 325.0,
+    "end": 328.0,
+    "speaker": "client",
+    "text": "So So Mom's going to go."
+  },
+  {
+    "start": 328.0,
+    "end": 334.0,
+    "speaker": "agent",
+    "text": "How come you're telling me this?"
+  },
+  {
+    "start": 334.0,
+    "end": 338.0,
+    "speaker": "client",
+    "text": "I don't know. I don't know."
+  },
+  {
+    "start": 338.0,
+    "end": 345.0,
+    "speaker": "agent",
+    "text": "What about her cousin that she's always helping out?"
+  },
+  {
+    "start": 345.0,
+    "end": 358.0,
+    "speaker": "client",
+    "text": "Oh, I think Heidi's a total idiot if you ask me. I mean when we're going to your permits, remember?"    
+  },
+  {
+    "start": 358.0,
+    "end": 360.0,
+    "speaker": "agent",
+    "text": "Yeah."
+  },
+  {
+    "start": 360.0,
+    "end": 372.0,
+    "speaker": "client",
+    "text": "So I said to Susan, just you want to come on fly."
+  },
+  {
+    "start": 372.0,
+    "end": 392.0,
+    "speaker": "client",
+    "text": "She says, what about the kids? I said, Heidi, you took your cousin's kids, all five of them. Why can't you leave? They weren't there."
+  },
+  {
+    "start": 392.0,
+    "end": 401.0,
+    "speaker": "client",
+    "text": "Because why can't you leave the other ones?"
+  },
+  {
+    "start": 401.0,
+    "end": 416.0,
+    "speaker": "client",
+    "text": "She said um she says it's a very hard time for her now cuz her husband's starting school."
+  },
+  {
+    "start": 416.0,
+    "end": 426.0,
+    "speaker": "client",
+    "text": "I said, so what? Isn't it always a hard time for everybody?"
+  },
+  {
+    "start": 426.0,
+    "end": 430.0,
+    "speaker": "client",
+    "text": "I don't know."
+  },
+  {
+    "start": 434.0,
+    "end": 450.0,
+    "speaker": "client",
+    "text": "She only takes them happily. And and and I know her cousin. How do you not How do you take them? She's got something against me asking it. I don't know."
+  },
+  {
+    "start": 455.0,
+    "end": 460.0,
+    "speaker": "client",
+    "text": "So listen."
+  },
+  {
+    "start": 460.0,
+    "end": 467.0,
+    "speaker": "client",
+    "text": "It's her business, not mine."
+  },
+  {
+    "start": 467.0,
+    "end": 475.0,
+    "speaker": "client",
+    "text": "So Mom doesn't want to go or Dad doesn't want to go."
+  },
+  {
+    "start": 475.0,
+    "end": 481.0,
+    "speaker": "agent",
+    "text": "Dad doesn't want to go."
+  },
+  {
+    "start": 481.0,
+    "end": 486.0,
+    "speaker": "client",
+    "text": "He never wants to go."
+  },
+  {
+    "start": 486.0,
+    "end": 488.0,
+    "speaker": "agent",
+    "text": "I know."
+  },
+  {
+    "start": 488.0,
+    "end": 502.0,
+    "speaker": "client",
+    "text": "And it's just a It probably will be hard for Mom, but that's why I said to Mom, I said, well, I'm sure you know Heidi, she has everything all ready and set."
+  },
+  {
+    "start": 502.0,
+    "end": 517.0,
+    "speaker": "client",
+    "text": "You know, so she says, no, she hasn't been feeling so well lately."
+  },
+  {
+    "start": 517.0,
+    "end": 529.0,
+    "speaker": "client",
+    "text": "She's just feeling very heavy. I don't think she really has anything prepared."
+  },
+  {
+    "start": 535.0,
+    "end": 536.6,
+    "speaker": "agent",
+    "text": "Mm-hm."
+  },
+  {
+    "start": 536.6,
+    "end": 552.0,
+    "speaker": "client",
+    "text": "Well, I said maybe if you, you know, mentioned her to to prepare at all. I mean she's home now all day without anything. The kids are gone from 9:00 to 4:00."
+  },
+  {
+    "start": 552.0,
+    "end": 558.0,
+    "speaker": "agent",
+    "text": "I'm sure she's preparing."
+  },
+  {
+    "start": 558.0,
+    "end": 570.0,
+    "speaker": "client",
+    "text": "I I think so too, but or if she didn't, she's waiting for this week to do it."
+  },
+  {
+    "start": 570.0,
+    "end": 576.0,
+    "speaker": "agent",
+    "text": "I think so too."
+  },
+  {
+    "start": 576.0,
+    "end": 585.0,
+    "speaker": "client",
+    "text": "It's not like her now."
+  },
+  {
+    "start": 585.0,
+    "end": 600.0,
+    "speaker": "client",
+    "text": "It's not like her, especially she's leaving Mom alone. She really doesn't want Mom patching around that much."
+  },
+  {
+    "start": 600.0,
+    "end": 601.6,
+    "speaker": "agent",
+    "text": "Mm."
+  },
+  {
+    "start": 601.6,
+    "end": 610.0,
+    "speaker": "client",
+    "text": "She likes to do her things her way."
+  }
+]
+```
