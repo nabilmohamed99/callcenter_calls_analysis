@@ -1,7 +1,7 @@
 import json, os
 from langchain_google_genai import ChatGoogleGenerativeAI
 from models import GlobalState, ScoreResult, Insight
-API_KEY = "AIzaSyBdw7cBELrnqL5ydoHwXd0XjWjV_Nfi_w0"
+API_KEY = ""
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-pro", google_api_key=API_KEY, temperature=0)
 
 
@@ -36,4 +36,5 @@ def score_analyst_node(state: GlobalState) -> GlobalState:
     print(raw)
     print("le row")
     result = ScoreResult(**json.loads(raw))
+
     return GlobalState(**{**state.model_dump(), "score_result": result})
