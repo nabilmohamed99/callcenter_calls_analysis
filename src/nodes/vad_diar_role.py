@@ -5,7 +5,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import HumanMessage
 from models import GlobalState, Turn
 
-API_KEY = "AIzaSyBdw7cBELrnqL5ydoHwXd0XjWjV_Nfi_w0"
+API_KEY = ""
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=API_KEY, temperature=0)
 
 SYS = """You are a call-center audio analyst.
@@ -59,4 +59,5 @@ def vad_diar_role_node(state: GlobalState) -> GlobalState:
         # Nettoyage du fichier temporaire
         if temp_path and os.path.exists(temp_path):
             os.remove(temp_path)
+
             print(f"Fichier temporaire supprimé : {temp_path}")
